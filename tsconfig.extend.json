@@ -1,0 +1,4 @@
+{
+  "include": ["src/**/*", "rollup.config.ts"],
+  "exclude": ["node_modules", ".storybook", "stories", "dist"]
+}
